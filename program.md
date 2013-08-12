@@ -11,37 +11,37 @@ All in Sally Borden Building
   
 ### Monday Morning (Big Genomic Projects): Creighton, Gilad, Montgomery, Haussler
 
-  * 9:00--9:35 Chad Creighton, Pathway-level insights from The Cancer Genome Atlas (TCGA)
-  * 9:35--10:10 Yoav Gilad, Understanding gene regulation (or not)
-  * 10:10--10:45 Stephen Montgomery, The extent and impact of rare non-coding variants in humans
+  * 9:00--9:35 Chad Creighton, Pathway-level insights from The Cancer Genome Atlas (TCGA) -- [abstract](#creighton)
+  * 9:35--10:10 Yoav Gilad, Understanding gene regulation (or not) -- [abstract](#gilad)
+  * 10:10--10:45 Stephen Montgomery, The extent and impact of rare non-coding variants in humans -- [abstract](#montgomery)
   * 10:45--11:05 Coffee Break
-  * 11:05--12:05 David Haussler, Large-scale comparative genomics for cancer research
+  * 11:05--12:05 David Haussler, Large-scale comparative genomics for cancer -- [abstract](#haussler)
   
 ### Monday Afternoon (Sequencing and Disease): Taylor, Boyd, Haibe-Kains
 
   * 13:00--14:00 Guided Tour of The Banff Centre; meet in the 2nd floor lounge, Corbett Hall
   * 14:00--14:15 Group Photo; meet in foyer of TCPL (photograph will be taken outdoors so a jacket might be required)
-  * 14:15--14:50 Barry Taylor, Outlier genomics drives precision oncology
+  * 14:15--14:50 Barry Taylor, Outlier genomics drives precision oncology -- [abstract](#taylor)
   * 14:50--15:10 Coffee Break
-  * 15:10--16:10 Scott Boyd, Monitoring Human Lymphocyte Populations with High Throughput DNA Sequencing
-  * 16:10--16:45 Benjamin Haibe-Kains, Prediction of Drug Response in Cell Lines: Are Pharmacogenomic Datasets Consistent?
+  * 15:10--16:10 Scott Boyd, Monitoring Human Lymphocyte Populations with High Throughput DNA Sequencing -- [abstract](#boyd)
+  * 16:10--16:45 Benjamin Haibe-Kains, Prediction of Drug Response in Cell Lines: Are Pharmacogenomic Datasets Consistent? -- [abstract](#haibe-kains)
 
 ### Tuesday Morning (Statistical Data Integration): Wang, Shen, Keles, Zhao
 
-  * 9:00--9:35 Pei Wang, Regularized multivariate regression approaches for integrative genomic analysis
-  * 9:35--10:10 Ronglai Shen, Pattern discovery and cancer gene identification in integrated cancer genomic data
-  * 10:10--10:45 Sunduz Keles, Integrative analysis of *-seq datasets for a comprehensive understanding of regulatory roles of repetitive regions
+  * 9:00--9:35 Pei Wang, Regularized multivariate regression approaches for integrative genomic analysis -- [abstract](#wang)
+  * 9:35--10:10 Ronglai Shen, Pattern discovery and cancer gene identification in integrated cancer genomic data -- [abstract](#shen)
+  * 10:10--10:45 Sunduz Keles, Integrative analysis of *-seq datasets for a comprehensive understanding of regulatory roles of repetitive regions -- [abstract](#keles)
   * 10:45--11:05 Coffee Break
-  * 11:05--12:05 Hongyu Zhao, Joint analysis of expression profiles from multiple cancers to identify microRNA-gene interactions
+  * 11:05--12:05 Hongyu Zhao, Joint analysis of expression profiles from multiple cancers to identify microRNA-gene interactions -- [abstract](#zhao)
 
 ### Tuesday Afternoon (Molecular Risk Stratification): Kendziorski, Ruczinski, Seshan, Begg, Kellis
 
-  * 13:25--14:00 Christina Kendziorski, Latent Dirichlet allocation models to enable personalized genomic medicine
-  * 14:00--14:35 Ingo Ruczinski, Sequencing family members to detect disease risk variants
-  * 14:35--15:10 Venkat Seshan, To adjust or not to adjust: the design and analysis of an epidemiologic study
+  * 13:25--14:00 Christina Kendziorski, Latent Dirichlet allocation models to enable personalized genomic medicine -- [abstract](#kendziorski)
+  * 14:00--14:35 Ingo Ruczinski, Sequencing family members to detect disease risk variants -- [abstract](#ruczinski)
+  * 14:35--15:10 Venkat Seshan, To adjust or not to adjust: the design and analysis of an epidemiologic study -- [abstract](#seshan)
   * 15:10--15:30 Coffee Break
-  * 15:30--16:30 Colin Begg, Use of Tumor Mutational Profiles to Infer Etiologic Heterogeneity of Cancers
-  * 16:30--15:05 Manolis Kellis, Regulatory and systems genomics of complex traits and intermediate molecular phenotypes
+  * 15:30--16:30 Colin Begg, Use of Tumor Mutational Profiles to Infer Etiologic Heterogeneity of Cancers -- [abstract](#begg)
+  * 16:30--17:05 Manolis Kellis, Regulatory and systems genomics of complex traits and intermediate molecular phenotypes -- [abstract](#kellis)
 
 ### Tuesday Evening (Posters and software)
 
@@ -63,9 +63,9 @@ Software (listed in no particular order)
   
 ### Wednesday Morning (Reproducible Research): Neuvial, Jacob, Peng, Baggerly
 
-  * 9:00--9:35 Pierre Neuvial, Improved performance evaluation of DNA copy number analysis methods in cancer studies
-  * 9:35--10:10 Laurent Jacob, Correcting gene expression data when neither the unwanted variation nor the factor of interest are observed
- * 10:10--10:45 Roger Peng, Reproducible Research with Evidence-based Data Analysis
+  * 9:00--9:35 Pierre Neuvial, Improved performance evaluation of DNA copy number analysis methods in cancer studies -- [abstract](#neuvial)
+  * 9:35--10:10 Laurent Jacob, Correcting gene expression data when neither the unwanted variation nor the factor of interest are observed -- [abstract](#jacob)
+ * 10:10--10:45 Roger Peng, Reproducible Research with Evidence-based Data Analysis -- [abstract](#peng)
   * 10:45--11:05 Coffee Break
   * 11:05--12:05 Keith Baggerly, When is Reproducibility an Ethical Issue? Genomics, Personalized Medicine, and Human Error -- [abstract](#baggerly)
 
@@ -79,18 +79,18 @@ Ingo Ruczinski to organize ....
 
 ### Thursday Morning (High-Throughput Genomic Methods I): Hansen, Huber, Segal, Leek
 
-  * 9:00--9:35 Kasper Hansen, A genome-wide look at DNA methylation
-  * 9:35--10:10 Wolfgang Huber, Differential analysis of count data from high-throughput sequencing
-  * 10:10--10:45 Mark Segal, Reproducibility of 3D chromatin configuration reconstructions
+  * 9:00--9:35 Kasper Hansen, A genome-wide look at DNA methylation -- [abstract](#hansen)
+  * 9:35--10:10 Wolfgang Huber, Differential analysis of count data from high-throughput sequencing -- [abstract](#huber)
+  * 10:10--10:45 Mark Segal, Reproducibility of 3D chromatin configuration reconstructions -- [abstract](#segal)
   * 10:45--11:05 Coffee Break
-  * 11:05--12:05 Jeff Leek, Statistical processes for facilitating personalized medicine
+  * 11:05--12:05 Jeff Leek, Statistical processes for facilitating personalized medicine -- [abstract](#leek)
 
 ### Thursday Afternoon (High-Throughput Genomic Methods II): Kundaje, Gravel, Liu
 
-  * 13:45--14:20 Anshul Kundaje, Learning long-range regulatory interactions and unified gene regulation programs in diverse human cell-types
-  * 14:20--14:55 Simon Gravel, Personal genomics of the Mestizos
+  * 13:45--14:20 Anshul Kundaje, Learning long-range regulatory interactions and unified gene regulation programs in diverse human cell-types -- [abstract](#kundaje)
+  * 14:20--14:55 Simon Gravel, Personal genomics of the Mestizos -- [abstract](#gravel)
   * 14:55--15:15 Coffee Break
-  * 15:15--16:15 X. Shirley Liu, Integrating sequencing and microarray data to identify novel functions of epigenetic regulators in cancer
+  * 15:15--16:15 X. Shirley Liu, Integrating sequencing and microarray data to identify novel functions of epigenetic regulators in cancer -- [abstract](#liu)
   
 ### Thursday Evening (pub evaluation)
 
@@ -98,14 +98,15 @@ Led by Stephen Montgomery ....
 
 ### Friday Morning: Stephens, Simon, Battle, Risso
 
-  * 8:30--9:05 Dave Stephens, Statistical modeling and computation for methylati n profiles in the BLK gene region
-  * 9:05--9:45 Noah Simon, Estimating Many Effect-sizes Bayesian Estimation as a Frequentist
+  * 8:30--9:05 Dave Stephens, Statistical modeling and computation for methylati n profiles in the BLK gene region -- [abstract](#stephens)
+  * 9:05--9:45 Noah Simon, Estimating Many Effect-sizes Bayesian Estimation as a Frequentist -- [abstract](#simon)
   * 9:45--10:10 Alexis Battle, Characterizing the genetic basis of transcriptome diversity through RNA-sequencing -- [abstract](#battle)
-  * 10:10--10:45 Davide Risso, The role of spike-in standards in the normalization of RNA-Seq
+  * 10:10--10:45 Davide Risso, The role of spike-in standards in the normalization of RNA-Seq -- [abstract](#risso)
   
-### Abstracts (INTERNAL LINKS BEING ADDED)
+### Abstracts
 
-__Keith Baggerly__ (MD Anderson Cancer Center) <a id="baggerly"></a>  
+<a id="baggerly"></a>  
+__Keith Baggerly__ (MD Anderson Cancer Center)  
 _When is Reproducibility an Ethical Issue? Genomics, Personalized Medicine, and Human Error_  
 Modern high-throughput biological assays let us ask detailed
 questions about how diseases operate, and promise to let us
@@ -121,7 +122,8 @@ to revisit the types of information that must accompany
 publications. We discuss steps we take to avoid such errors, and
 lessons that can be applied to large data sets more broadly.
 
-__Alexis Battle__ (Stanford University) <a id="battle"></a>  
+ <a id="battle"></a>  
+__Alexis Battle__ (Stanford University)  
 _Characterizing the genetic basis of transcriptome diversity through RNA-sequencing_  
 Understanding the consequences of regulatory variation in the human
 genome remains a major challenge, with important implications for
@@ -160,7 +162,8 @@ changes in pathways relevant to disease risk. Together, these results
 represent a critical step toward characterizing the complete landscape
 of human regulatory variation.
 
-__Colin Begg__ (Memorial Sloan-Kettering Cancer Center) <a id="begg"></a>  
+ <a id="begg"></a>  
+__Colin Begg__ (Memorial Sloan-Kettering Cancer Center)  
 _Use of Tumor Mutational Profiles to Infer Etiologic Heterogeneity of Cancers_  
 Cancer has traditionally been studied using the disease site
 of origin as the organizing framework. Recent advances in molecular
@@ -189,7 +192,8 @@ topic. The investigative strategy provides a structured approach to
 investigating the relationship between germ-line and somatic
 mutational profiles.
 
-__Scott Boyd__ (Stanford University) <a id="boyd"></a>  
+<a id="boyd"></a>  
+__Scott Boyd__ (Stanford University)  
 _Monitoring Human Lymphocyte Populations with High-Throughput DNA Sequencing_  
 Next-generation DNA sequencing (NGS) of immunoglobulin or T
 cell receptor gene rearrangements provide a new method for evaluating
@@ -218,7 +222,8 @@ sequence level but highly similar at the protein level, indicating
 that convergent selection of antibodies to specific antigens is a
 common feature of human immune responses.
 
-__Chad Creighton__ (Baylor College of Medicine) <a id="creighton"></a>  
+<a id="creighton"></a>  
+__Chad Creighton__ (Baylor College of Medicine)  
 _Pathway-level insights from The Cancer Genome Atlas (TCGA)_  
 Sequencing and microarray-based technologies are generating
 large amounts of high quality molecular data. A mandate of The Cancer
@@ -229,7 +234,8 @@ mRNA, miRNA, and protein). This presentation will focus on integrative
 analyses of TCGA datasets, towards the goal of providing a more
 complete view of pathway deregulation in cancer.
 
-__Yoav Gilad__ (University of Chicago) <a id="gilad"></a>  
+<a id="gilad"></a>  
+__Yoav Gilad__ (University of Chicago)  
 _Understanding gene regulation (or not)_  
 Histone modifications are important markers of function and
 chromatin state, yet the DNA elements that direct them to specific
@@ -254,7 +260,8 @@ chromatin both locally and sometimes at distant locations, frequently
 drive changes in gene expression, and likely play an important role in
 the genetics of complex traits.
 
-__Simon Gravel__ (McGill University) <a id="gravel"></a>  
+<a id="gravel"></a>  
+__Simon Gravel__ (McGill University)  
 _Personal genomics of the Mestizos}_  
 There is great scientific and popular interest in
 understanding the genetic history of populations in the Americas.  We
@@ -277,7 +284,8 @@ sequence data, propose precise estimates of the human mutation rate,
 discuss the most likely origins of the Taino people, and speculate on
 consequences for personalized medicine.
 
-__Kasper Hansen__ (Johns Hopkins University) <a id="hansen"></a>  
+<a id="hansen"></a>  
+__Kasper Hansen__ (Johns Hopkins University)  
 _A genome-wide look at DNA methylation_  
 DNA methylation is an important epigenetic mark in mammalian
 cells, implicated in tissue differentiation and cancer.  Whole-genome
@@ -287,7 +295,8 @@ this epigenetic mark. We discuss our recent work on analyzing this
 type of data and discuss changes in DNA methylation associated with
 carcinogenesis as well as global differences between tissues.
 
-__David Haussler__ (UC Santa Cruz)  <a id="haussler"></a>  
+<a id="haussler"></a>  
+__David Haussler__ (UC Santa Cruz)  
 _Large-scale comparative genomics for cancer research_  
 UCSC has built the Cancer Genomics Hub (CGHub) for the US
 National Cancer Institute, designed to hold up to 5 petabytes of
@@ -317,7 +326,8 @@ technical challenges.
 Reference:
 <http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.html>
 
-__Wolfgang Huber__ (EMBL)  <a id="huber"></a>  
+<a id="huber"></a>  
+__Wolfgang Huber__ (EMBL)  
 _Differential analysis of count data from high-throughput sequencing_  
 Many applications of high throughput sequencing require
 statistical inference based on count data. Mapped reads are often
@@ -336,7 +346,8 @@ in Bioconductor. I will also briefly present an application to the
 detection of evolutionarily conserved patterns of tissue dependent
 exon usage.
 
-__Laurent Jacob__ (UC Berkeley)  <a id="jacob"></a>  
+<a id="jacob"></a>  
+__Laurent Jacob__ (UC Berkeley)  
 _Correcting gene expression data when neither the unwanted variation nor the factor of interest are observed_  
 When dealing with large scale gene expression studies,
 observations are commonly contaminated by sources of unwanted
@@ -357,7 +368,8 @@ evaluated on three gene expression datasets. They generally manage to
 remove unwanted variation without losing the signal of interest and
 compare favorably to state of the art corrections.
 
-__Benjamin Haibe-Kains__ (Institut de Recherches Cliniques de Montral) <a id="haibe-kains"></a>  
+<a id="haibe-kains"></a>  
+__Benjamin Haibe-Kains__ (Institut de Recherches Cliniques de Montreal)  
 _Prediction of Drug Response in Cell Lines: Are Pharmacogenomic Datasets Consistent?_  
 Cancer cell line studies have long been used to test the
 efficacy of therapeutic agents and to explore the genomic factors
@@ -386,8 +398,9 @@ them very difficult and has potential implications for using these
 outcome measures to assess gene-drug relationships or select potential
 anti-cancer drugs.
 
-__Sunduz Keles__ (University of Wisconsin) <a id="keles"></a>  
-_Integrative analysis of *-seq datasets for a comprehensive understanding of regulatory roles of repetitive regions}_  
+<a id="keles"></a>  
+__Sunduz Keles__ (University of Wisconsin)  
+_Integrative analysis of *-seq datasets for a comprehensive understanding of regulatory roles of repetitive regions_  
 A fundamental question in molecular biology is how cell type
 specific gene expression programs are established and maintained
 through gene regulation. Main drivers of cell-specific gene expression
@@ -402,6 +415,10 @@ data is the lack of statistical and computational methods required to
 identify functional elements in repetitive regions of
 genomes. Although next generation sequencing (NGS) technologies, embraced by the ENCODE projects, are enabling interrogation of genomes in an unbiased manner, the data analysis efforts by the ENCODE projects have thus far focused on mappable regions with unique sequence contents. This is especially true for the analysis of ChIP-seq data in which all ENCODE-adapted methods discard reads that map to multiple locations (multi-reads). This is a highly critical barrier to the advancement of ENCODE data because significant fractions of complex genomes are composed of repetitive regions; strikingly, more than half of the human genome is repetitive.
 
+<a id="kellis"></a>  
+__Manolis Kellis__ (MIT)  
+_Regulatory and systems genomics of complex traits and intermediate molecular phenotypes_  
+While the methodological framework for relating genotype to disease has been well established through the development of genome-wide association studies (GWAS), the incorporation of functional genomics annotations, regulatory genomics networks, and intermediate molecular phenotypes such as expression and epigenetic changes is still a great challenge in statistical and computational genomics. In this talk, I’ll describe some of our work seeking to address these challenges. (1) In the context of ENCODE and the Roadmap Epigenomics program, I will describe methods for integration of functional genomics datasets into chromatin state annotations, linking of regulators to enhancer regions and their target genes, and prediction and validation of causal regulators using massively parallel reporter assays. (2) In the context of disease network analysis, I will present three new methods (a) for inference of regulatory networks from diverse functional genomics datasets of gene expression, chromatin state, transcription factor binding, and regulatory motif conservation; (b) for deconvolution of direct and indirect effects in general correlation-based and mutual information-based networks; and (c) for integration of disease-associated variants in regulatory networks to predict additional disease-associated genes. (3) In the context of the Genotype-Tissue Expression (GTEx) project, I will present a new method for discovering SNPs affecting multi-tissue expression patterns, by learning expression modules jointly across individuals, and discovering quantitative trait loci (QTLs) that alter the module membership network between individuals, or network QTLs. (4) Lastly, in the context of a longitudinal study of Alzheimer’s Disease (AD) in a cohort of 750 individuals, I will present methods for studying the interplay between genotype, DNA methylation patterns in the brain, chromatin state, and Alzheimer’s disease using independent component analysis and non-negative least squares for meQTL discovery, MWAS, and genome-wide randomizations. Overall, our results suggest that global regulatory changes are associated with complex disease, and suggest a general methodology for integration of genetic and epigenetic variation to uncover their systems-level effects.
 
 We present a unified statistical model for utilizing
 multi-reads in *-seq datasets (ChIP-, DNase-, and FAIRE-seq) with
@@ -410,7 +427,8 @@ enrichment patterns. Our model efficiently integrates multiple *-seq
 datasets and significantly advances multi-read analysis of ENCODE and
 related datasets.
 
-__Christina Kendziorski__ (University of Wisconsin) <a id="kendziorski"></a>  
+<a id="kendziorski"></a>  
+__Christina Kendziorski__ (University of Wisconsin)  
 _Latent Dirichlet allocation models to enable personalized genomic medicine_
 Genomic based studies of disease now involve highly diverse types of
 data collected on large groups of patients. A major challenge facing
@@ -434,7 +452,8 @@ integration across multiple platforms and scales to enable powerful
 patient-specific inference, as demonstrated in studies of cancer from
 the cancer genome atlas (TCGA) project.
 
-__Anshyul Kundaje__ (MIT, Broad Institue and Stanford University) <a id="kundaje"></a>  
+<a id="kundaje"></a>  
+__Anshyul Kundaje__ (MIT, Broad Institue and Stanford University) 
 _Learning long-range regulatory interactions and unified gene regulation programs in diverse human cell-types_  
 In multicellular organisms, epigenetic information is a key
 enabler of dynamic regulatory regions shaping the identity of each
@@ -467,7 +486,8 @@ models to highlight cell-type specific regulatory elements,
 transcription factors and pathways. Together, these analyses provide a
 unified, multi-faceted view of dynamic gene regulation in humans.
 
-__Jeff Leek__ (Johns Hopkins University)  <a id="leek"></a>  
+<a id="leek"></a>  
+__Jeff Leek__ (Johns Hopkins University)  
 _Statistical processes for facilitating personalized medicine_  
 The promise of personalized medicine has been tempered by
 high-profile errors in the application of genomic biomarkers.Time
@@ -478,7 +498,8 @@ down biomarker development, and interactive visualization. I will
 illustrate these ideas with a case study in genomic biomarker
 development.
 
-__Xiaole Shirley Liu__ (Harvard University and Dana-Farber Cancer Institute) <a id="liu"></a>  
+<a id="liu"></a>  
+__Xiaole Shirley Liu__ (Harvard University and Dana-Farber Cancer Institute)  
 _Integrating sequencing and microarray data to identify novel functions of epigenetic regulators in cancer_  
 There have been growing appreciation of the role of
 epigenetic alteration in tumorigenesis and cancer progression. The
@@ -491,7 +512,8 @@ tumor expression data to identify novel lncRNAs with oncogenic
 functions and unkown partners that mediate the novel function of
 chromatin regulators.
 
-__Stephen Montgomery__ (Stanford University) <a id="montgomery"></a>  
+<a id="montgomery"></a>  
+__Stephen Montgomery__ (Stanford University)  
 _The extent and impact of rare non-coding variants in humans_  
 Recent and rapid human population expansion has led to an
 excess of rare genetic variants that are expected to contribute to an
@@ -513,7 +535,8 @@ will highlight new analytical approaches for the analysis of RNA
 sequencing data that we have applied to understanding cardiovascular
 and lung disease.
 
-__Pierre Neuvial__ (CNRS and University of Evry) <a id="neuvial"></a>  
+<a id="neuvial"></a>  
+__Pierre Neuvial__ (CNRS and University of Evry)  
 _Improved performance evaluation of DNA copy number analysis methods in cancer studies_  
 Changes in DNA copy numbers are a hallmark of cancer cells.
 Therefore, the accurate detection and interpretation of such changes
@@ -534,7 +557,8 @@ compared methods in terms of biologically informative parameters, such
 as the signal length, the number of breakpoints, the fraction of tumor
 cells in the sample, or the chip type.
 
-__Roger Peng__ (Johns Hopkins University) <a id="peng"></a>  
+<a id="peng"></a>  
+__Roger Peng__ (Johns Hopkins University)  
 _Reproducible Research with Evidence-based Data Analysis_  
 Statistical software is plentiful today, with new procedures and
 algorithms constantly being developed, implemented, and optimized.
@@ -558,7 +582,8 @@ and present an example of one in the context of air pollution
 epidemiology. We further discuss how these machines can be used to
 encourage reproducible research in biomedical science.
 
-__Davide Risso__ (UC Berkeley) <a id="risso"></a>  
+<a id="risso"></a>  
+__Davide Risso__ (UC Berkeley)  
 _The role of spike-in standards in the normalization of RNA-Seq_  
 Normalization of RNA-Seq data has proven to be an essential step to
 ensure accurate inference of expression levels, by correcting for
@@ -584,14 +609,16 @@ them. Our novel approach leads to more accurate estimates of
 expression fold-changes and tests for differential expression,
 compared with state-of-the-art normalization methods.
 
-__Ingo Ruczinski__ (Johns Hopkins University) <a id="ruczinski"></a>  
+<a id="ruczinski"></a>  
+__Ingo Ruczinski__ (Johns Hopkins University) 
 _Sequencing family members to detect disease risk variants_  
 We present some new statistical methods and software to
 detect disease risk variants, sequencing affected only or affected and
 non-affected individuals in families. Examples are mostly drawn from a
 study of oral clefts with probands of Asian and European descent.
 
-__Mark Segal__ (UCSF) <a id="segal"></a>  
+<a id="segal"></a>  
+__Mark Segal__ (UCSF) 
 _Reproducibility of 3D chromatin configuration reconstructions_  
 It is widely recognized that the three dimensional (3D)
 architecture of eukaryotic chromatin plays critical roles in nuclear
@@ -634,7 +661,8 @@ of reproducibility assessment provide a means for comparing 3D
 reconstruction solutions so that we can discern between local and
 global optima by contrasting solutions under perturbed inputs.
 
-__Venkat Seshan__ (Memorial Sloan-Kettering Cancer Center) <a id="seshan"></a>  
+<a id="seshan"></a>  
+__Venkat Seshan__ (Memorial Sloan-Kettering Cancer Center)  
 _To adjust or not to adjust: the design and analysis of an epidemiologic study_
 Women who survive their first primary breast cancer are at an
 increased risk of developing a second primary cancer in their
@@ -654,7 +682,8 @@ post development of score. We will compare the performance of the two
 approaches using simulations in a simple logistic regression
 framework.
 
-__Ronglai Shen__ (Memorial Sloan-Kettering Cancer Center) <a id="shen"></a>  
+<a id="shen"></a>  
+__Ronglai Shen__ (Memorial Sloan-Kettering Cancer Center)  
 _Pattern discovery and cancer gene identification in integrated cancer genomic data_  
 Large-scale integrated cancer genome characterization
 efforts including the cancer genome atlas have created unprecedented
@@ -680,7 +709,8 @@ show application of the method to the TCGA pan-cancer cohort with
 whole-exome DNA sequencing, SNP6.0 array, mRNA sequencing data in
 3,000 patient samples spanning 12 cancer types.
 
-__Noah Simon__ (Stanford University) <a id="simon"></a>  
+<a id="simon"></a>  
+__Noah Simon__ (Stanford University)  
 _Estimating Many Effect-sizes Bayesian Estimation as a Frequentist_  
 With the advent of high-throughput technologies, the multiple testing
 problem has become pervasive in the analysis of biomedical and genomic
@@ -708,7 +738,8 @@ H. Robbins. Asymptotically subminimax solutions of compound
 statistical decision problems. Stanford-Berkeley joint symposium,
 1951.
 
-__David Stephens__ (McGill University) <a id="stephens"></a>  
+<a id="stephens"></a>  
+__David Stephens__ (McGill University)  
 _Statistical modeling and computation for methylation profiles in the BLK gene region_  
 I will discuss some work in progress on statistical methods for
 extracting patterns from methylation profiles,
@@ -722,7 +753,8 @@ patterns. <a id="boyd"></a>
 
 This is joint work with Asad Haris, Celia Greenwood and Aurelie Labbe.
 
-__Barry Taylor__ (UCSF) <a id="taylor"></a>  
+<a id="taylor"></a>  
+__Barry Taylor__ (UCSF)  
 _Outlier genomics drives precision oncology_  
 Curative therapy for patients with advanced-stage solid tumors remains
 elusive. Even with the much-heralded advent of targeted inhibitors of
@@ -745,7 +777,8 @@ clinical benefit, and (iii) rational polytherapeutic strategies to
 interdict in a manner that extends such profound, life-altering
 activity in molecular defined populations.
  
-__Pei Wang__ (Fred Hutchinson Cancer Research Center) <a id="wang"></a>  
+<a id="wang"></a>  
+__Pei Wang__ (Fred Hutchinson Cancer Research Center)  
 _Regularized multivariate regression approaches for integrative genomic analysis_  
 Understanding expression quantitative trait loci (eQTL)
 provides important clues to genetic basis of gene expression
@@ -765,7 +798,8 @@ interesting eQTLs. These findings could potentially inform the
 underlying biological processes of cancers and generate hypotheses for
 future studies.
 
-__Hongyu Zhao__ (Yale University) <a id="zhao"></a>  
+<a id="zhao"></a>  
+__Hongyu Zhao__ (Yale University)  
 _Joint analysis of expression profiles from multiple cancers to identify microRNA-gene interactions_  
 MicroRNAs (miRNAs) play a crucial role in tumorigenesis and
 development through their effects on target genes. The
