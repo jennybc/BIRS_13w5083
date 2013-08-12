@@ -9,6 +9,7 @@ Program
     - New talk: Manolis Kellis 16:30 - 15:05 Tuesday
     - Info on Tuesday evening posters and software
   * [PDF version](program_5day_2013.pdf)
+  * [Community notepad](http://aroma-project.org/banff) for coordinating, e.g. driving for the hike (thanks to Henrik!)
 
 BIRS resources
 
