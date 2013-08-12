@@ -34,7 +34,7 @@ All in Sally Borden Building
   * 10:45--11:05 Coffee Break
   * 11:05--12:05 Hongyu Zhao, Joint analysis of expression profiles from multiple cancers to identify microRNA-gene interactions
 
-### Tuesday Afternoon (Molecular Risk Stratification): Kendziorski, Ruczinski, Seshan, Begg
+### Tuesday Afternoon (Molecular Risk Stratification): Kendziorski, Ruczinski, Seshan, Begg, Kellis
 
   * 13:25--14:00 Christina Kendziorski, Latent Dirichlet allocation models to enable personalized genomic medicine
   * 14:00--14:35 Ingo Ruczinski, Sequencing family members to detect disease risk variants
@@ -67,7 +67,7 @@ Software (listed in no particular order)
   * 9:35--10:10 Laurent Jacob, Correcting gene expression data when neither the unwanted variation nor the factor of interest are observed
  * 10:10--10:45 Roger Peng, Reproducible Research with Evidence-based Data Analysis
   * 10:45--11:05 Coffee Break
-  * 11:05--12:05 Keith Baggerly, When is Reproducibility an Ethical Issue? Genomics, Personalized Medicine, and Human Error
+  * 11:05--12:05 Keith Baggerly, When is Reproducibility an Ethical Issue? Genomics, Personalized Medicine, and Human Error -- [abstract](#baggerly)
 
 ### Wednesday Afternoon (free/group hikes)
 
@@ -102,3 +102,21 @@ Led by Stephen Montgomery ....
   * 9:05--9:45 Noah Simon, Estimating Many Effect-sizes Bayesian Estimation as a Frequentist
   * 9:45--10:10 Alexis Battle, Characterizing the genetic basis of transcriptome diversity through RNA-sequencing
   * 10:10--10:45 Davide Risso, The role of spike-in standards in the normalization of RNA-Seq
+  
+### Abstracts (STILL BEING ADDED)
+
+__Keith Baggerly__ (MD Anderson Cancer Center) <a id="baggerly"></a>  
+_When is Reproducibility an Ethical Issue? Genomics, Personalized Medicine, and Human Error_  
+Modern high-throughput biological assays let us ask detailed
+questions about how diseases operate, and promise to let us
+personalize therapy. Careful data processing is essential, because our
+intuition about what the answers “should” look like is very poor when
+we have to juggle thousands of things at once. When documentation of
+such processing is absent, we must apply “forensic bioinformatics” to
+work from the raw data and reported results to infer what the methods
+must have been. We will present several case studies where simple
+errors may have put patients at risk. This work has been covered in
+both the scientific and lay press, and has prompted several journals
+to revisit the types of information that must accompany
+publications. We discuss steps we take to avoid such errors, and
+lessons that can be applied to large data sets more broadly.
