@@ -69,9 +69,13 @@ Software (listed in no particular order)
   * 10:45--11:05 Coffee Break
   * 11:05--12:05 Keith Baggerly, When is Reproducibility an Ethical Issue? Genomics, Personalized Medicine, and Human Error
 
-### Wednesday Afternoon (free/group hike)
+### Wednesday Afternoon (free/group hikes)
 
 Ingo Ruczinski to organize ....
+
+### Wednesday Evening (informal conference dinner)
+
+~8pm, time and location TBC, but idea is to gather for dinner at a restaurant
 
 ### Thursday Morning (High-Throughput Genomic Methods I): Hansen, Huber, Segal, Leek
 
@@ -87,6 +91,10 @@ Ingo Ruczinski to organize ....
   * 14:20--14:55 Simon Gravel, Personal genomics of the Mestizos
   * 14:55--15:15 Coffee Break
   * 15:15--16:15 X. Shirley Liu, Integrating sequencing and microarray data to identify novel functions of epigenetic regulators in cancer
+  
+### Thursday Evening (pub evaluation)
+
+Led by Stephen Montgomery ....
 
 ### Friday Morning: Stephens, Simon, Battle, Risso
 
