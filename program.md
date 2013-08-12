@@ -5,47 +5,47 @@
 
 All in Sally Borden Building
 
-  * Breakfast: 7:00--9:30 am
-  * Lunch: 11:30 am--1:30 pm
-  * Dinner: 5:30--7:30 pm
+  * Breakfast: 7:00 - 9:30 am
+  * Lunch: 11:30 am - 1:30 pm
+  * Dinner: 5:30 - 7:30 pm
   
 ### Monday Morning (Big Genomic Projects): Creighton, Gilad, Montgomery, Haussler
 
-  * 9:00--9:35 Chad Creighton, Pathway-level insights from The Cancer Genome Atlas (TCGA) -- [abstract](#creighton)
-  * 9:35--10:10 Yoav Gilad, Understanding gene regulation (or not) -- [abstract](#gilad)
-  * 10:10--10:45 Stephen Montgomery, The extent and impact of rare non-coding variants in humans -- [abstract](#montgomery)
-  * 10:45--11:05 Coffee Break
-  * 11:05--12:05 David Haussler, Large-scale comparative genomics for cancer -- [abstract](#haussler)
+  * 9:00 - 9:35 Chad Creighton, Pathway-level insights from The Cancer Genome Atlas (TCGA) -- [abstract](#creighton)
+  * 9:35 - 10:10 Yoav Gilad, Understanding gene regulation (or not) -- [abstract](#gilad)
+  * 10:10 - 10:45 Stephen Montgomery, The extent and impact of rare non-coding variants in humans -- [abstract](#montgomery)
+  * 10:45 - 11:05 Coffee Break
+  * 11:05 - 12:05 David Haussler, Large-scale comparative genomics for cancer -- [abstract](#haussler)
   
 ### Monday Afternoon (Sequencing and Disease): Taylor, Boyd, Haibe-Kains
 
-  * 13:00--14:00 Guided Tour of The Banff Centre; meet in the 2nd floor lounge, Corbett Hall
-  * 14:00--14:15 Group Photo; meet in foyer of TCPL (photograph will be taken outdoors so a jacket might be required)
-  * 14:15--14:50 Barry Taylor, Outlier genomics drives precision oncology -- [abstract](#taylor)
-  * 14:50--15:10 Coffee Break
-  * 15:10--16:10 Scott Boyd, Monitoring Human Lymphocyte Populations with High Throughput DNA Sequencing -- [abstract](#boyd)
-  * 16:10--16:45 Benjamin Haibe-Kains, Prediction of Drug Response in Cell Lines: Are Pharmacogenomic Datasets Consistent? -- [abstract](#haibe-kains)
+  * 13:00 - 14:00 Guided Tour of The Banff Centre; meet in the 2nd floor lounge, Corbett Hall
+  * 14:00 - 14:15 Group Photo; meet in foyer of TCPL (photograph will be taken outdoors so a jacket might be required)
+  * 14:15 - 14:50 Barry Taylor, Outlier genomics drives precision oncology -- [abstract](#taylor)
+  * 14:50 - 15:10 Coffee Break
+  * 15:10 - 16:10 Scott Boyd, Monitoring Human Lymphocyte Populations with High Throughput DNA Sequencing -- [abstract](#boyd)
+  * 16:10 - 16:45 Benjamin Haibe-Kains, Prediction of Drug Response in Cell Lines: Are Pharmacogenomic Datasets Consistent? -- [abstract](#haibe-kains)
 
 ### Tuesday Morning (Statistical Data Integration): Wang, Shen, Keles, Zhao
 
-  * 9:00--9:35 Pei Wang, Regularized multivariate regression approaches for integrative genomic analysis -- [abstract](#wang)
-  * 9:35--10:10 Ronglai Shen, Pattern discovery and cancer gene identification in integrated cancer genomic data -- [abstract](#shen)
-  * 10:10--10:45 Sunduz Keles, Integrative analysis of *-seq datasets for a comprehensive understanding of regulatory roles of repetitive regions -- [abstract](#keles)
-  * 10:45--11:05 Coffee Break
-  * 11:05--12:05 Hongyu Zhao, Joint analysis of expression profiles from multiple cancers to identify microRNA-gene interactions -- [abstract](#zhao)
+  * 9:00 - 9:35 Pei Wang, Regularized multivariate regression approaches for integrative genomic analysis -- [abstract](#wang)
+  * 9:35 - 10:10 Ronglai Shen, Pattern discovery and cancer gene identification in integrated cancer genomic data -- [abstract](#shen)
+  * 10:10 - 10:45 Sunduz Keles, Integrative analysis of *-seq datasets for a comprehensive understanding of regulatory roles of repetitive regions -- [abstract](#keles)
+  * 10:45 - 11:05 Coffee Break
+  * 11:05 - 12:05 Hongyu Zhao, Joint analysis of expression profiles from multiple cancers to identify microRNA-gene interactions -- [abstract](#zhao)
 
 ### Tuesday Afternoon (Molecular Risk Stratification): Kendziorski, Ruczinski, Seshan, Begg, Kellis
 
-  * 13:25--14:00 Christina Kendziorski, Latent Dirichlet allocation models to enable personalized genomic medicine -- [abstract](#kendziorski)
-  * 14:00--14:35 Ingo Ruczinski, Sequencing family members to detect disease risk variants -- [abstract](#ruczinski)
-  * 14:35--15:10 Venkat Seshan, To adjust or not to adjust: the design and analysis of an epidemiologic study -- [abstract](#seshan)
-  * 15:10--15:30 Coffee Break
-  * 15:30--16:30 Colin Begg, Use of Tumor Mutational Profiles to Infer Etiologic Heterogeneity of Cancers -- [abstract](#begg)
-  * 16:30--17:05 Manolis Kellis, Regulatory and systems genomics of complex traits and intermediate molecular phenotypes -- [abstract](#kellis)
+  * 13:25 - 14:00 Christina Kendziorski, Latent Dirichlet allocation models to enable personalized genomic medicine -- [abstract](#kendziorski)
+  * 14:00 - 14:35 Ingo Ruczinski, Sequencing family members to detect disease risk variants -- [abstract](#ruczinski)
+  * 14:35 - 15:10 Venkat Seshan, To adjust or not to adjust: the design and analysis of an epidemiologic study -- [abstract](#seshan)
+  * 15:10 - 15:30 Coffee Break
+  * 15:30 - 16:30 Colin Begg, Use of Tumor Mutational Profiles to Infer Etiologic Heterogeneity of Cancers -- [abstract](#begg)
+  * 16:30 - 17:05 Manolis Kellis, Regulatory and systems genomics of complex traits and intermediate molecular phenotypes -- [abstract](#kellis)
 
 ### Tuesday Evening (Posters and software)
 
-Informal session in our usual venue; feel free to move freely between posters and the software talks. We're laying in extra snacks and beverages in Corbett Hall lounge to supply ourselves.
+Informal session in our usual venue; feel free to move freely between posters and the software talks. We're laying in extra snacks and beverages in Corbett Hall lounge to supply ourselves but usual cash honor system still applies.
 
 __Posters__ Please post no later than 19:30pm in TCPL lobby.
 
@@ -64,11 +64,11 @@ __Software__ Brief presentations of 15 - 20 mins. Start times therefore approxim
   
 ### Wednesday Morning (Reproducible Research): Neuvial, Jacob, Peng, Baggerly
 
-  * 9:00--9:35 Pierre Neuvial, Improved performance evaluation of DNA copy number analysis methods in cancer studies -- [abstract](#neuvial)
-  * 9:35--10:10 Laurent Jacob, Correcting gene expression data when neither the unwanted variation nor the factor of interest are observed -- [abstract](#jacob)
- * 10:10--10:45 Roger Peng, Reproducible Research with Evidence-based Data Analysis -- [abstract](#peng)
-  * 10:45--11:05 Coffee Break
-  * 11:05--12:05 Keith Baggerly, When is Reproducibility an Ethical Issue? Genomics, Personalized Medicine, and Human Error -- [abstract](#baggerly)
+  * 9:00 - 9:35 Pierre Neuvial, Improved performance evaluation of DNA copy number analysis methods in cancer studies -- [abstract](#neuvial)
+  * 9:35 - 10:10 Laurent Jacob, Correcting gene expression data when neither the unwanted variation nor the factor of interest are observed -- [abstract](#jacob)
+ * 10:10 - 10:45 Roger Peng, Reproducible Research with Evidence-based Data Analysis -- [abstract](#peng)
+  * 10:45 - 11:05 Coffee Break
+  * 11:05 - 12:05 Keith Baggerly, When is Reproducibility an Ethical Issue? Genomics, Personalized Medicine, and Human Error -- [abstract](#baggerly)
 
 ### Wednesday Afternoon (free/group hikes)
 
@@ -80,18 +80,18 @@ Ingo Ruczinski to organize .... Use the [Google doc](http://aroma-project.org/ba
 
 ### Thursday Morning (High-Throughput Genomic Methods I): Hansen, Huber, Segal, Leek
 
-  * 9:00--9:35 Kasper Hansen, A genome-wide look at DNA methylation -- [abstract](#hansen)
-  * 9:35--10:10 Wolfgang Huber, Differential analysis of count data from high-throughput sequencing -- [abstract](#huber)
-  * 10:10--10:45 Mark Segal, Reproducibility of 3D chromatin configuration reconstructions -- [abstract](#segal)
-  * 10:45--11:05 Coffee Break
-  * 11:05--12:05 Jeff Leek, Statistical processes for facilitating personalized medicine -- [abstract](#leek)
+  * 9:00 - 9:35 Kasper Hansen, A genome-wide look at DNA methylation -- [abstract](#hansen)
+  * 9:35 - 10:10 Wolfgang Huber, Differential analysis of count data from high-throughput sequencing -- [abstract](#huber)
+  * 10:10 - 10:45 Mark Segal, Reproducibility of 3D chromatin configuration reconstructions -- [abstract](#segal)
+  * 10:45 - 11:05 Coffee Break
+  * 11:05 - 12:05 Jeff Leek, Statistical processes for facilitating personalized medicine -- [abstract](#leek)
 
 ### Thursday Afternoon (High-Throughput Genomic Methods II): Kundaje, Gravel, Liu
 
-  * 13:45--14:20 Anshul Kundaje, Learning long-range regulatory interactions and unified gene regulation programs in diverse human cell-types -- [abstract](#kundaje)
-  * 14:20--14:55 Simon Gravel, Personal genomics of the Mestizos -- [abstract](#gravel)
-  * 14:55--15:15 Coffee Break
-  * 15:15--16:15 X. Shirley Liu, Integrating sequencing and microarray data to identify novel functions of epigenetic regulators in cancer -- [abstract](#liu)
+  * 13:45 - 14:20 Anshul Kundaje, Learning long-range regulatory interactions and unified gene regulation programs in diverse human cell-types -- [abstract](#kundaje)
+  * 14:20 - 14:55 Simon Gravel, Personal genomics of the Mestizos -- [abstract](#gravel)
+  * 14:55 - 15:15 Coffee Break
+  * 15:15 - 16:15 X. Shirley Liu, Integrating sequencing and microarray data to identify novel functions of epigenetic regulators in cancer -- [abstract](#liu)
   
 ### Thursday Evening (pub evaluation)
 
@@ -99,10 +99,10 @@ Led by Stephen Montgomery ....
 
 ### Friday Morning: Stephens, Simon, Battle, Risso
 
-  * 8:30--9:05 Dave Stephens, Statistical modeling and computation for methylati n profiles in the BLK gene region -- [abstract](#stephens)
-  * 9:05--9:45 Noah Simon, Estimating Many Effect-sizes Bayesian Estimation as a Frequentist -- [abstract](#simon)
-  * 9:45--10:10 Alexis Battle, Characterizing the genetic basis of transcriptome diversity through RNA-sequencing -- [abstract](#battle)
-  * 10:10--10:45 Davide Risso, The role of spike-in standards in the normalization of RNA-Seq -- [abstract](#risso)
+  * 8:30 - 9:05 Dave Stephens, Statistical modeling and computation for methylation profiles in the BLK gene region -- [abstract](#stephens)
+  * 9:05 - 9:45 Noah Simon, Estimating Many Effect-sizes Bayesian Estimation as a Frequentist -- [abstract](#simon)
+  * 9:45 - 10:10 Alexis Battle, Characterizing the genetic basis of transcriptome diversity through RNA-sequencing -- [abstract](#battle)
+  * 10:10 - 10:45 Davide Risso, The role of spike-in standards in the normalization of RNA-Seq -- [abstract](#risso)
   
 ### Abstracts
 
@@ -619,7 +619,7 @@ non-affected individuals in families. Examples are mostly drawn from a
 study of oral clefts with probands of Asian and European descent.
 
 <a id="segal"></a>  
-__Mark Segal__ (UCSF) 
+__Mark Segal__ (UCSF)  
 _Reproducibility of 3D chromatin configuration reconstructions_  
 It is widely recognized that the three dimensional (3D)
 architecture of eukaryotic chromatin plays critical roles in nuclear
