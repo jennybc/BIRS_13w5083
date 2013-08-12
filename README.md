@@ -1,3 +1,9 @@
+---
+files.to.publish:
+  - README.md
+  - postersSoftware.md
+  - program_5day_2013.pdf
+---
 BIRS_13w5083
 ============
 
@@ -15,8 +21,8 @@ Sunday, August 11 to Friday, August 16
 [List of confirmed participants](http://www.birs.ca/events/2013/5-day-workshops/13w5083/participants)
 
 Organizers:
-  * Adam Olshen olshena@biostat.ucsf.edu 
+  * Adam Olshen olshena@biostat.ucsf.edu
   * Jenny Bryan jenny@stat.ubc.ca
   * Stephen Montgomery
   * Ronglai Shen
-  
+
