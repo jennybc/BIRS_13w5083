@@ -49,8 +49,8 @@ Informal session in our usual venue; feel free to move freely between posters an
 
 __Posters__ Please post no later than 19:30pm in TCPL lobby.
 
-  * David Quigley
-  * Shelley Herbrich, "Molecular Predictors of Residual Disease After Cytoreductive Surgery in Patients with High-Grade Serous Ovarian Cancer.
+  * David Quigley. Using eQTL analysis and differential correlation to identify causal candidates for cancer susceptibility alleles.
+  * Shelley Herbrich. Molecular Predictors of Residual Disease After Cytoreductive Surgery in Patients with High-Grade Serous Ovarian Cancer.
   * Christina Kendziorski. [EBSeq, a method for identifying DE isoforms in an RNA-seq experiment](http://bioinformatics.oxfordjournals.org/content/early/2013/02/21/bioinformatics.btt087.abstract).
   * Laurent Jacob (?)
   * Sunduz Keles
