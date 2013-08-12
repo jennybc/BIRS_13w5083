@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 *.Rproj
+publish/*
+_fileherd/*

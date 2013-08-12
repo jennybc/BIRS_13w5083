@@ -17,5 +17,5 @@ Organizers:
 
   * Adam Olshen olshena@biostat.ucsf.edu
   * Jenny Bryan jenny@stat.ubc.ca
-  * Stephen Montgomery
-  * Ronglai Shen
+  * Stephen Montgomery smontgom@stanford.edu
+  * Ronglai Shen shenr@mskcc.org
