@@ -7,6 +7,7 @@ Program
 
   * [Web version](program.md), most up-to-date. Main differences from PDF/hard copies floating around:
     - New talk: Manolis Kellis 16:30 - 15:05 Tuesday
+    - Info on Tuesday evening posters and software
   * [PDF version](program_5day_2013.pdf)
 
 BIRS resources
