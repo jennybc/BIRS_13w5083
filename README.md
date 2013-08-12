@@ -5,7 +5,7 @@ Statistical Data Integration Challenges in Computational Biology: Regulatory Net
 
 Program
 
-  * [Web version](program.html), most up-to-date
+  * [Web version](program.md), most up-to-date
   * [PDF version](program_5day_2013.pdf)
 
 BIRS resources
