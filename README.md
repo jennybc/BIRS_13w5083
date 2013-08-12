@@ -19,3 +19,9 @@ Organizers:
   * Jenny Bryan jenny@stat.ubc.ca
   * Stephen Montgomery smontgom@stanford.edu
   * Ronglai Shen shenr@mskcc.org
+
+Backend
+
+  * Source for this website [on github](https://github.com/jennybc/BIRS_13w5083)
+  * ["Baked" version](http://www.stat.ubc.ca/~jenny/notOcto/BIRS_13w5083/) of the website
+  * `fileherd` R package makes the website
