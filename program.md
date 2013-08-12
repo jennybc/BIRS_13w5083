@@ -45,21 +45,23 @@ All in Sally Borden Building
 
 ### Tuesday Evening (Posters and software)
 
-Informal session ~8pm (time TBC)
+Informal session in our usual venue; feel free to move freely between posters and the software talks. We're laying in extra snacks and beverages in Corbett Hall lounge to supply ourselves.
 
-Posters
+__Posters__ Please post no later than 19:30pm in TCPL lobby.
 
   * David Quigley
   * Shelley Herbrich, "Molecular Predictors of Residual Disease After Cytoreductive Surgery in Patients with High-Grade Serous Ovarian Cancer.
-  * Christina Kenziorski. [EBSeq, a method for identifying DE isoforms in an RNA-seq experiment](http://bioinformatics.oxfordjournals.org/content/early/2013/02/21/bioinformatics.btt087.abstract).
+  * Christina Kendziorski. [EBSeq, a method for identifying DE isoforms in an RNA-seq experiment](http://bioinformatics.oxfordjournals.org/content/early/2013/02/21/bioinformatics.btt087.abstract).
   * Laurent Jacob (?)
+  * Sunduz Keles
+  * Irina Ostrovnaya
   
-Software (listed in no particular order)
+__Software__ Brief presentations of 15 - 20 mins. Start times therefore approximate.
 
-  * David Quigley. A free-standing, easy to use program that plots gene expression data and allows the user to generate gene expression correlation networks that are viewed in Cytoscape.
-  * Anshul Kundaje. The ENCODE ChIP-seq pipeline: Robust QC and reproducibility-based adaptive thresholding for ChIP-seq data.
-  * Wolfgang Huber. Image analysis and high-throughput phenotyping with R. *Or DESeq?*
-  * Xiaole Shirley Liu. Tools and databases about ChIP-seq data analysis.
+  * 20:00 Wolfgang Huber. Image analysis and high-throughput phenotyping with R. _Or DESeq?_
+  * 20:15 Anshul Kundaje. The ENCODE ChIP-seq pipeline: Robust QC and reproducibility-based adaptive thresholding for ChIP-seq data.
+  * 20:30 X. Shirley Liu. Tools and databases about ChIP-seq data analysis.
+  * 20:45 David Quigley. A free-standing, easy to use program that plots gene expression data and allows the user to generate gene expression correlation networks that are viewed in Cytoscape.
   
 ### Wednesday Morning (Reproducible Research): Neuvial, Jacob, Peng, Baggerly
 
