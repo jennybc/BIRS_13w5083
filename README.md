@@ -6,10 +6,10 @@ Statistical Data Integration Challenges in Computational Biology: Regulatory Net
 Program
 
   * [Web version](program.md), most up-to-date. Main differences from PDF/hard copies floating around:
-    - New talk: Manolis Kellis 16:30 - 15:05 Tuesday
+    - New talk: Manolis Kellis 16:30 - 17:05 Tuesday
     - Info on Tuesday evening posters and software
   * [PDF version](program_5day_2013.pdf)
-  * [Community notepad](http://aroma-project.org/banff) for coordinating, e.g. driving for the hike (thanks to Henrik!)
+  * [Google doc](http://aroma-project.org/banff) for coordinating, e.g. driving for the hike (thanks to Henrik!)
 
 BIRS resources
 
