@@ -1,3 +1,9 @@
+---
+files.to.publish:
+  - README.md
+  - postersSoftware.md
+  - program_5day_2013.pdf
+---
 BIRS_13w5083
 ============
 
