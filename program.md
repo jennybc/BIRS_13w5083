@@ -72,7 +72,7 @@ __Software__ Brief presentations of 15 - 20 mins. Start times therefore approxim
 
 ### Wednesday Afternoon (free/group hikes)
 
-Ingo Ruczinski to organize ....
+Ingo Ruczinski to organize .... Use the [Google doc](http://aroma-project.org/banff) to indicate if you can drive some people, if you need a ride, etc.
 
 ### Wednesday Evening (informal conference dinner)
 
