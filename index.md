@@ -1,9 +1,3 @@
----
-files.to.publish:
-  - index.md
-  - program.md
-  - program_5day_2013.pdf
----
 BIRS_13w5083
 ============
 
