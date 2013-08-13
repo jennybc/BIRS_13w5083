@@ -55,6 +55,7 @@ __Posters__ Please post no later than 19:30pm in TCPL lobby.
   * Sunduz Keles. ChIP-exo in? ChIP-seq out?
   * Sunduz Keles. jMOSAiCS: joint analysis of multiple ChIP-seq datasets.
   * Irina Ostrovnaya
+  * Mengjie Chen. Phylogenetic Indian Buffet Process: Theory and Applications in Integrative Analysis of Cancer Genomics.
   
 __Software__ Brief presentations of 15 - 20 mins. Start times therefore approximate.
 
