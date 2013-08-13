@@ -54,8 +54,9 @@ __Posters__ Please post no later than 19:30pm in TCPL lobby.
   * Christina Kendziorski. [EBSeq, a method for identifying DE isoforms in an RNA-seq experiment](http://bioinformatics.oxfordjournals.org/content/early/2013/02/21/bioinformatics.btt087.abstract).
   * Sunduz Keles. ChIP-exo in? ChIP-seq out?
   * Sunduz Keles. jMOSAiCS: joint analysis of multiple ChIP-seq datasets.
-  * Irina Ostrovnaya
+  * Irina Ostrovnaya. Novel algorithm for stratifying patients into survival risk groups using mutation data at selected genes.
   * Mengjie Chen. Phylogenetic Indian Buffet Process: Theory and Applications in Integrative Analysis of Cancer Genomics.
+  * Zhaohui (Steve) Qin.
   
 __Software__ Brief presentations of 15 - 20 mins. Start times therefore approximate.
 
