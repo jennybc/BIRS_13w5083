@@ -58,12 +58,13 @@ __Posters__ Please post no later than 19:30pm in TCPL lobby.
   * Mengjie Chen. Phylogenetic Indian Buffet Process: Theory and Applications in Integrative Analysis of Cancer Genomics.
   * Zhaohui (Steve) Qin.
   
-__Software__ Brief presentations of 15 - 20 mins. Start times therefore approximate.
+__Software__ Brief presentations of ~15 mins. Start times therefore approximate.
 
   * 20:00 Wolfgang Huber. Image analysis and high-throughput phenotyping with R.
   * 20:15 Anshul Kundaje. The ENCODE ChIP-seq pipeline: Robust QC and reproducibility-based adaptive thresholding for ChIP-seq data.
   * 20:30 X. Shirley Liu. Tools and databases about ChIP-seq data analysis.
   * 20:45 David Quigley. A free-standing, easy to use program that plots gene expression data and allows the user to generate gene expression correlation networks that are viewed in Cytoscape.
+  * 21:00 Henrik Bengtsson. Dynamic documents using RSP.
   
 ### Wednesday Morning (Reproducible Research): Neuvial, Jacob, Peng, Baggerly
 
