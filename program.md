@@ -80,7 +80,7 @@ Ingo Ruczinski to organize .... Use the [Google doc](http://aroma-project.org/ba
 
 ### Wednesday Evening (informal conference dinner)
 
-~8pm, time and location TBC, but idea is to gather for dinner at a restaurant
+8pm self-pay dinner at [Balkan Greek](http://www.banffbalkan.ca/), 120 Banff Avenue. Reservation is for 28 under the name Venkat Seshan.
 
 ### Thursday Morning (High-Throughput Genomic Methods I): Hansen, Huber, Segal, Leek
 

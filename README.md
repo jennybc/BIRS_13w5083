@@ -6,6 +6,7 @@ Statistical Data Integration Challenges in Computational Biology: Regulatory Net
 Program
 
   * [Web version](program.md), most up-to-date. Main differences from PDF/hard copies floating around:
+    - 8pm Wed self-pay dinner at [Balkan Greek](http://www.banffbalkan.ca/), 120 Banff Avenue.  
     - New talk: Manolis Kellis 16:30 - 17:05 Tuesday
     - Info on Tuesday evening posters and software
   * [PDF version](program_5day_2013.pdf)
