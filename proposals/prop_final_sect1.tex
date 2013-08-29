@@ -1,0 +1,132 @@
+\documentclass{amsart}
+
+\begin{document}
+
+\title{Proposed workshop ``Statistical Science for Genome Biology''}
+
+\maketitle
+
+\section*{Subject Area Overview}
+
+Recent developments in genetics and molecular biology have unleashed a
+flood of data that is noteworthy for its volume, complexity, and
+noisiness. Some of the most significant developments of the past
+decade in the biological sciences have relied on successfully
+integrating biological expertise with statistical thinking to design
+and analyze genomic experiments. While the connections between the
+biological and mathematical sciences are by no means new, as
+exemplified by the early genetic mapping work of the statistician
+R. A. Fisher in the 1920s, interactions between the two fields are
+more crucial and extensive than ever.  Indeed, as noted by Eric
+S. Lander and Robert A. Weinberg in "Genomics: Journey to the Center
+of Biology" (Science 2000 March 10; 287: 1777-1782): "The availability
+of the complete parts lists of organisms, that is, catalogs of all
+their genes and thus all their proteins, has been redirecting
+biologists toward a global perspective on life processes -- to study
+the role of all genes or all proteins at once. ... This new approach
+promises stunning breadth of perspective. At the same time, it
+threatens to inundate scientists in a flood of data that will
+overwhelm their ability to interpret it. Powerful new types of
+bioinformatics will clearly be required to assimilate and interpret
+the data that will issue from various types of genomic research."
+
+We highlight here several broad areas of biological investigation
+which rely vitally on statistical and computational methods for
+assembling, processing, and interpreting large multivariate datasets:
+\begin{itemize}
+\item {\em Sequence analysis, for both nucleic acids and proteins.}
+The Human Genome Project is the most striking illustration of the
+power of current high throughput sequencing capabilities. Genomic
+sequences from multiple and diverse organisms are now available for
+comparative analyses with the aim of understanding the structure,
+function, and evolution of genomes. Specific problems in nucleotide
+sequence analysis include: whole genome assembly, sequence alignment,
+computational gene finding, identification of regulatory
+regions. Protein folding and structure prediction are of great
+interest in drug discovery, among other areas.
+\item {\em Genetic mapping.}  Small-scale sequencing efforts are
+underway to catalog hundreds of thousands of single nucleotide
+polymorphisms (SNPs) and describe their biological significance . A
+promising approach toward understanding the genetic basis of complex
+diseases, such as diabetes or multiple sclerosis, involves detecting
+associations between the trait and SNP haplotypes (i.e., combinations
+of alleles at closely linked SNP markers).
+\item {\em Gene expression profiling.}  DNA microarrays allow the
+measurement of messenger RNA abundance in cells for thousands of genes
+simultaneously.  Similar methods for proteins are in active
+development. Such large-scale gene expression assays are increasingly
+being performed in biological and medical research to address a wide
+range of problems.  In cancer research, for example, DNA microarrays
+are used to study the molecular variations among tumors with the aim
+of developing better diagnosis and treatment strategies for the
+disease.
+\item {\em Molecular interaction.}  Immunoprecipitation and yeast
+two-hybrid studies are just two examples of methods used to determine
+whether individual molecules, in this case proteins, interact with
+each other.
+\end{itemize}
+The above are four examples of genomic research areas which absolutely
+require quantitative analysis in order to translate the observed
+measurements into biological knowledge. Furthermore, the underlying
+biological variation and unavoidable measurement errors imply that
+statistical formulations are universally applicable. Although existing
+statistical paradigms are extremely powerful for analyzing genomic
+data, certain aspects of these data present new challenges and,
+therefore, motivate new research.  Areas of statistical research
+include:
+\begin{itemize}
+\item {\em Complex parameter specification and estimation.}  The
+actual parameter of interest in genomic studies is rarely explicitly
+identified; more often, it is implicit in the research goals. We are
+generally trying to recover information about extremely complex
+objects, such as gene networks.  Even simplified versions of this,
+such as identifying members of a network in a gene list or sorting
+members of distinct networks into gene clusters, implicitly define
+very high-dimensional parameters.  Although it is rarely done in
+practice today, the estimates produced in real-world data analysis
+should be accompanied by relevant measures of uncertainty.
+Statisticians are developing appropriate notions of sampling error
+(what is the 'standard error' of an estimated gene network or of a
+tree-based gene clustering?) and valid methods for estimating that
+error.
+\item {\em Multiple testing.}  The ``multiplicity problem'' arises
+when a large number of hypothesis tests are being performed at once
+(or a large number of interval estimates are being simultaneously
+constructed).  Since the dimension of the parameter of interest in a
+genomic study is typically driven by the number of genes in a genome,
+multiplicity problems are encountered on an unprecedented scale.
+Statisticians are actively devising ways to control the probabilistic
+performance of testing and estimation procedures for high-dimensional
+parameters, in the presence of large errors and correlated data.
+\item {\em Cluster analysis, prediction, and model selection.}
+Sequencing, genotyping, and gene expression projects produce
+measurements on thousands of genomic variables. It is of interest to
+relate these variables to other biological and clinical variables to
+elucidate, for example, the molecular basis of complex diseases such
+as cancer. In cancer research, large databases of clinical, sequence,
+microarray, and SNP data are being assembled. Goals include the use of
+genomic variables to distinguish among known tumor classes, to predict
+clinical outcomes such as survival and response to treatment, and to
+identify previously unrecognized and clinically significant subclasses
+of tumors. The development of clustering, prediction, and model
+selection methods for high-dimensional problems is critical for these
+efforts.  Assessing the reliability of the inferences is a key aspect
+for each of these tasks.
+\item {\em Statistical computing.} An efficient computing environment
+is essential for the analysis of genomic data. Such an environment
+should provide access to a broad range of statistical and graphical
+methods, as well as tools for integrating biological metadata
+(e.g. textual data from PubMed, annotation data from the Gene Ontology
+(GO) Consortium) in the analysis of experimental data. Novel software
+design and distributed computing paradigms are being investigated.  
+\end{itemize}
+In addition to conducting research on new methodologies, statisticians
+working in genomics must also identify existing techniques that are
+appropriate for these data structures and demonstrate how they can be
+correctly applied in new settings.  Bringing novel and existing
+methods to bear on genomic data, statisticians can have tremendous
+positive impact on the knowledge derived from genome-scale
+experiments.
+
+\end{document}
+
